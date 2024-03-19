@@ -1,13 +1,19 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.pinterest.com/pin/33284484740025807/)
 <h1 align="center">Hi 👋, I'm Soumen Midya</h1>
 <h3 align="center">I am a researcher and interested in Computational Material Science. My works focus on developing promising heterogeneous catalysts for Clean Energy application</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*K64hMdxdqDJ5G09ekF9eTQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumen40&label=Profile%20views&color=0e75b6&style=flat" alt="soumen40" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@soumen3848" target="blank"><img src="https://img.shields.io/twitter/follow/@soumen3848?logo=twitter&style=for-the-badge" alt="@soumen3848" /></a> </p>
 
+- 🔭 I’m currently working on **Machine Learning for promising industrial catalyst designing**
+
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://midyasoumen282.wixsite.com/soumen-midya](https://midyasoumen282.wixsite.com/soumen-midya)
+
+- 💬 Ask me about **Heterogeneous Catalysis**
 
 - 📫 How to reach me **midyasoumen282@gmail.com**
 
