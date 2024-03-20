@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **midyasoumen282@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny $#12345;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
