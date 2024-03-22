@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.pinterest.com/pin/33284484740025807/)
+
 <h1 align="center">Hi 👋, I'm Soumen Midya</h1>
 <h3 align="center">I am a researcher and interested in Computational Material Science. My works focus on developing promising heterogeneous catalysts for the Clean Energy application</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*K64hMdxdqDJ5G09ekF9eTQ.gif">
