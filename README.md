@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soumen Midya</h1>
-<h3 align="center">I am a researcher interested in Computational Material Science. My research interest is to develop promising industrial catalysts for Clean Energy applications</h3>
+<h3 align="center">I am a researcher specializing in Computational Material Science with a focus on developing advanced industrial catalysts for Clean Energy applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*K64hMdxdqDJ5G09ekF9eTQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumen40&label=Profile%20views&color=0e75b6&style=flat" alt="soumen40" /> </p>
